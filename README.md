@@ -18,7 +18,7 @@ Learn C++ by making games following [Beginning C++ Through Game Programming](htt
 
 ### Using arithmetics operators
 
-- [expensive_calculator](expensive_calculator.cc): example of operations
+- [expensive_calculator](ch1/expensive_calculator.cc): example of operations
 
 ### Declaring and initializing variables
 
