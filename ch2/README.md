@@ -41,7 +41,7 @@ You can use a **switch** statement to create multiple branching points in your c
 
 You can immediately exit a loop with the **break** statement, and you can jump directly to the top of a loop with a **continue** statement.
 
-- [finicky_counter](finicky_counter)
+- [finicky_counter](finicky_counter.cc)
 
 ## Using logical operators
 
