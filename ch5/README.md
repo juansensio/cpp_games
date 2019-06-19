@@ -52,7 +52,7 @@ By inlining a function, you ask the compiler to make a copy of the function ever
 
 ## Project
 
-- [mad_lib][mad_lib.cc]
+- [mad_lib](mad_lib.cc)
 
 
 ## Summary
