@@ -11,7 +11,7 @@ The *STL (Standard Template Library)* represents a powerful collection of progra
 
 The **vector** class defines one kind of container provided by the STL. It meets the general description of a dynamic array—an array that can grow and shrink in size as needed.
 
--[hero_inventory_2.0](hero_inventory_2.0)
+- [hero_inventory_2.0](hero_inventory_2.0.cc)
 
 
 ## Using iterators
@@ -20,7 +20,7 @@ The **vector** class defines one kind of container provided by the STL. It meets
 
 A **constant iterator** is just like a regular iterator except that you can’t use it to change the element to which it refers
 
--[hero_inventory_3.0](hero_inventory_3.0)
+- [hero_inventory_3.0](hero_inventory_3.0.cc)
 
 ## Using algorithms
 
@@ -34,11 +34,11 @@ Although vectors grow dynamically as needed, every vector has a specific size. W
 
 The **capacity()** vector member function returns the capacity of a vector—in other words, the number of elements that a vector can hold before a program must reallocate more memory for it. The capacity of a vector doubles every time a program reallocates additional memory for it.
 
--[vector_capacity](vector_capacity.cc)
+- [vector_capacity](vector_capacity.cc)
 
 The **reserve()** member function increases the capacity of a vector to the number supplied as an argument. Using reserve() gives you control over when a reallocation of additional memory occurs.
 
--[vector_reserve](vector_reserve.cc)
+- [vector_reserve](vector_reserve.cc)
 
 Adding or removing an element from the end of a vector using the push_back() or pop_back() member functions is extremely efficient. However, adding or removing an element at any other point in a vector (for example, using insert() or erase()) can require more work because you might have to move multiple elements to accommodate the insertion or deletion. Fortunately, the STL offers another sequence container type, **list**, which allows for efficient insertion and deletion regardless of the sequence size.
 
@@ -46,7 +46,7 @@ Adding or removing an element from the end of a vector using the push_back() or 
 
 The STL defines a variety of container types that fall into two basic categories: **sequential** and **associative**. With a sequential container, you can retrieve values in sequence, while an associative container lets you retrieve values based on keys. Container **adaptors** represent standard computer science data structures. Although they are not official containers, they look and feel just like them. 
 
-![containers](containers.png)
+![containers](containers.PNG)
 
 ## Project
 
