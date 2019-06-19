@@ -5,4 +5,6 @@ Learn C++ by making games following [Beginning C++ Through Game Programming](htt
 - [Chapter 1](./ch1): TYPES, VARIABLES, AND STANDARD I/O.
 - [Chapter 2](./ch2): TRUTH, BRANCHING, AND THE GAME LOOP.
 - [Chapter 3](./ch3): FOR LOOPS, STRINGS, AND ARRAYS.
+- [Chapter 4](./ch4): THE STANDARD TEMPLATE LIBRARY.
+- [Chapter 5](./ch5): FUNCTIONS.
 

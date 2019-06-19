@@ -53,4 +53,4 @@ C-style strings don’t have member functions. But the cstring file, which is pa
 
  ## Exercises
 
-- [word_jumble_2.0](word_jumble.cc_2.0): add scoring system
+- [word_jumble_2.0](word_jumble_2.0.cc): add scoring system
