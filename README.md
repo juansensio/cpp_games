@@ -9,7 +9,7 @@ Learn C++ by making games following [Beginning C++ Through Game Programming](htt
 - [Chapter 5](./ch5): FUNCTIONS.
 - [Chapter 6](./ch6): REFERENCES.
 - [Chapter 7](./ch7): POINTERS.
-- [Chapter 9](./ch8): CLASSES.
+- [Chapter 8](./ch8): CLASSES.
 - [Chapter 9](./ch9): ADVANCED CLASSES AND DYNAMIC MEMORY.
 - [Chapter 10](./ch10): INHERITANCE AND POLYMORPHISM.
 
