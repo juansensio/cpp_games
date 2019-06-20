@@ -7,4 +7,5 @@ Learn C++ by making games following [Beginning C++ Through Game Programming](htt
 - [Chapter 3](./ch3): FOR LOOPS, STRINGS, AND ARRAYS.
 - [Chapter 4](./ch4): THE STANDARD TEMPLATE LIBRARY.
 - [Chapter 5](./ch5): FUNCTIONS.
+- [Chapter 6](./ch6): REFERNCES.
 
